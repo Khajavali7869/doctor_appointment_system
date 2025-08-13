@@ -4,7 +4,8 @@ A full-stack web application for booking, managing, and tracking doctor appointm
 Built with **[mention your tech stack: e.g., MERN]**, this system allows patients to schedule appointments and doctors to manage their schedules efficiently.
 
 ---
-
+#frontend : https://doctor-appointment-system-frontend-ey7j.onrender.com
+#admin: https://doctor-appointment-system-admin-k6qt.onrender.com
 ## ✨ Features
 
 - **User Authentication**
