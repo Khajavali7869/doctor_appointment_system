@@ -6,7 +6,7 @@ const Contact = () => {
     <div>
 
       <div className='text-center text-2xl pt-10 text-[#707070]'>
-        <p>CONTACT <span className='text-gray-700 font-semibold'>India</span></p>
+        <p>CONTACT <span className='text-gray-700 font-semibold'>US</span></p>
       </div>
 
       <div className='my-10 flex flex-col justify-center md:flex-row gap-10 mb-28 text-sm'>
